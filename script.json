@@ -4,6 +4,10 @@
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "YO": "What's up with you?",
 		"I LOVE YOU": "Awh, shucks! I love you too!",
+		"WHAT DO YOU DO": "",
+		"WHAT DID YOU DO AT AMAZON": "I was the UX designer for ProductAds. A product advertising service.",
+		"WHAT IS PRODUCTADS": "Unfortunately the product no longer exists. But it was a way for merchants to advertise their products alongside the Amazon catalog. When a visitor clicked on the product they were taken to the merchants website to complete the transaction.",
+		"WHAT WAS YOUR ROLE AT AMAZON": "As the solu UX designer Tom was responsible for display of the product ads within relevancy widgets on search and product pages. Also, Tom worked with SellerCentral, the application which merchants used to upload, manage and create campaigns for their products",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, turphBot is back."
 }
