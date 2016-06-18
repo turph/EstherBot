@@ -4,9 +4,7 @@
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "YO": "What's up with you?",
 		"I LOVE YOU": "Awh, shucks! I love you too!",
-		// Common
 		"WHAT DO YOU DO": "I am a UX Designer. My strengths are mostly around using analytics to solve user problems.",
-		// Amazon
 		"WHEN DID YOU WORK AT AMAZON": "I worked there",
 		"WHAT DID YOU DO AT AMAZON": "I was the UX designer for ProductAds. A product advertising service.",
 		"WHAT IS PRODUCTADS": "Unfortunately the product no longer exists. But it was a way for merchants to advertise their products alongside the Amazon catalog. When a visitor clicked on the product they were taken to the merchants website to complete the transaction.",
