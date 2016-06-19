@@ -2,7 +2,7 @@
     "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set turphBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "YO": "What's up with you?",
+    "YO": "What's up with you? Glad you stopped. So what would you like to know more about?\n!%[Tom's Career]() %[]",
 		"I LOVE YOU": "Awh, shucks! I love you too!",
     "WHO ARE YOU": "I am the bot for Tom Murphy (a.k.a. Turph)",
 		"ARE YOU LOOKING FOR A JOB": "Thanks for asking, but right now I am pretty happy.",
@@ -17,9 +17,10 @@
 		"WHAT DID YOU DO AT AMAZON": "As the sole UX designer I was responsible for display of the product ads within relevancy widgets on search and product pages. Also, I worked with SellerCentral, the application which merchants used to upload, manage and create campaigns for their products",
 		"WHAT WAS YOUR ROLE AT AMAZON": "As the sole UX designer I was responsible for display of the product ads within relevancy widgets on search and product pages. Also, I worked with SellerCentral, the application which merchants used to upload, manage and create campaigns for their products",
 		"WHY DID YOU LEAVE AMAZON?": "Have you heard? It rains a lot in Seattle - no I mean A LOT! Also big city life is a grind. And ~5 years at Amazon is a long time./n!I loved working there, but it was time to move on.",
-    "CONNECT ME": "",
 		"WHAT DO YOU LIKE TO WORK ON": "I like understanding how things work - so being presented a problem or looking at analytics, and working on a solution.",
 		"WHAT IS YOUR WEAKNESS": "Ice cream.",
-		"WHY SHOULD I HIRE YOU": "I can make a decent highly efficient user experience, play a good left wing and luge. Honestly, do you know anyone else that is a luger?",
+		"WHY SHOULD I HIRE YOU": "I can make a decent looking & highly efficient user experience, play a strong forward left wing and luge. Honestly, do you know anyone else that is a luger?",
+		"ARE YOU MARRIED": "Yo recruiter that's illegal to ask! But since you asked, yes I am.",
+    "CONNECT ME": "",
     "DISCONNECT": "Roger that, turphBot is back."
 }
