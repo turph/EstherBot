@@ -2,11 +2,13 @@
     "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set turphBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "YO": "What's up with you? Glad you stopped. So what would you like to know more about? %[Tom's Career](postback:toms_career) %[]",
+    "YO": "What's up with you? Glad you stopped. So what would you like to know more about? %[Tom's Career](postback:toms_career) %[Tom's porfolio](http://turphdesigns.com)",
 		"TOMS CAREER": "I have worked for many places",
 		"I LOVE YOU": "Awh, shucks! I love you too!",
     "WHO ARE YOU": "I am the bot for Tom Murphy (a.k.a. Turph)",
 		"ARE YOU LOOKING FOR A JOB": "Thanks for asking, but right now I am pretty happy.",
+		"CAN I SEE YOUR WORK": "Sure! You can find it here:/n%[Tom's porfolio](http://turphdesigns.com)",
+		"DO YOU HAVE A PORTFOLIO": "Sure! You can find it here:/n%[Tom's porfolio](http://turphdesigns.com)",
 		"EVEN FOR A LOT OF MONEY": "Well... That does sound great, but I really like living in Park City",
 		"WHAT DO YOU DO": "I am an UX Designer. My strengths are mostly around using analytics to solve user problems.",
 		"WHO DID YOU WORK FOR": "I have worked for an advertising agency called Allen & Gerritsen, a financial startup called WorldStreet, that big retailer Amazon, and an outdoor company called Backcountry.",
@@ -21,7 +23,7 @@
 		"WHAT DO YOU LIKE TO WORK ON": "I like understanding how things work - so being presented a problem or looking at analytics, and working on a solution.",
 		"WHAT IS YOUR WEAKNESS": "Ice cream.",
 		"WHY SHOULD I HIRE YOU": "I can make a decent looking & highly efficient user experience, play a strong forward left wing and luge. Honestly, do you know anyone else that is a luger?",
-		"ARE YOU MARRIED": "Yo recruiter that's illegal to ask! But since you asked, yes I am.",
+		"ARE YOU MARRIED": "Yo recruiter that's illegal to ask!/nBut since you asked, yes I am.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, turphBot is back."
 }
